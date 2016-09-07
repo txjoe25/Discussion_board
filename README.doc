@@ -1,0 +1,5 @@
+Required Features
+♦ Display of all Topics posted by the users and the real-time count of posts/answers for that specific topic.
+♦ Able to add a new topic and its description based on pre-defined/entered categories (saved in the database). Users’ ability to put answers/post and comments to each topic.
+♦ User profile page that displays how may topics, answers and comments the user has posted.
+♦ Login/Logout feature.
